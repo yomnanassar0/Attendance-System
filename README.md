@@ -24,3 +24,5 @@ Accuracy and Precision: The system should be able to recognize the user in accur
 * Usability: The system should be user-friendly, simple and easy to use.
 * Responsiveness: The System should execute in high speed.
 * The system will be build using Python, Tensorflow and OpenCv
+# Use Case Diagram 
+https://user-images.githubusercontent.com/40139825/115119644-c480d900-9fa9-11eb-88c2-ba5488ccef21.jpeg
