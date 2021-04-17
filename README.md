@@ -25,4 +25,13 @@ Accuracy and Precision: The system should be able to recognize the user in accur
 * Responsiveness: The System should execute in high speed.
 * The system will be build using Python, Tensorflow and OpenCv
 # Use Case Diagram 
-https://user-images.githubusercontent.com/40139825/115119644-c480d900-9fa9-11eb-88c2-ba5488ccef21.jpeg
+![diagram](https://user-images.githubusercontent.com/40139825/115119786-78826400-9faa-11eb-99ad-78fe0e392cdb.jpeg)
+<br><br>
+# Use Case Scenerios
+![4](https://user-images.githubusercontent.com/40139825/115119831-b2ec0100-9faa-11eb-8017-51d5d10309df.png)
+![Untitled](https://user-images.githubusercontent.com/40139825/115119849-c5663a80-9faa-11eb-97c9-5b4a89007f13.png)
+![2](https://user-images.githubusercontent.com/40139825/115119889-ef1f6180-9faa-11eb-91f2-424bfdcdaa03.png)
+![3](https://user-images.githubusercontent.com/40139825/115119899-f8a8c980-9faa-11eb-8df4-3657cfd323e9.png)
+
+# ER Diagram
+![Blank diagram(1)](https://user-images.githubusercontent.com/40139825/115119922-170ec500-9fab-11eb-8213-855aa7393a69.jpeg)
