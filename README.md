@@ -35,3 +35,9 @@ Accuracy and Precision: The system should be able to recognize the user in accur
 
 # ER Diagram
 ![Blank diagram(1)](https://user-images.githubusercontent.com/40139825/115119922-170ec500-9fab-11eb-8213-855aa7393a69.jpeg)
+
+# Activity Diagram:
+
+![Activity Diagram 1- User](https://user-images.githubusercontent.com/50136936/116825768-ee80f080-ab90-11eb-89d6-2bc1a6edba7f.jpg)
+
+![Activity Diagram 2- Mgr](https://user-images.githubusercontent.com/50136936/116825790-0d7f8280-ab91-11eb-82c8-6bf7a8a8bab6.jpg)
